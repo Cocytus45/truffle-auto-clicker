@@ -23,4 +23,4 @@ To get started click the hyperlinked download text below to add it to your brows
 <br>
 No setup is required.
 
-### [Download](https://addons.mozilla.org/firefox/downloads/file/4174996/d08e189b6eff4c7faa15-1.1.xpi)
+### [Download V1.1](https://addons.mozilla.org/firefox/downloads/file/4174996/d08e189b6eff4c7faa15-1.1.xpi)
