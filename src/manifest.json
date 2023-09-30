@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "Truffle Auto Clicker",
+  "version": "1.1",
+  "author": "H.L.L.",
+  "description": "Automatically clicks the Truffle claim button.",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*/channel-points"],
+      "js": ["content.js"],
+      "all_frames": true
+    }
+  ],
+  "icons": {
+    "48": "icon_48.png",
+    "96": "icon_96.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "48": "icon_48.png",
+      "96": "icon_96.png"
+    },
+    "default_title": "Truffle Auto Clicker"
+  }
+}
