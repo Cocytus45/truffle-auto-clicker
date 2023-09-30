@@ -1,4 +1,4 @@
-# <img src="src/original_icon.png" width="60" height="60" /> Truffle Auto Clicker
+# <img src="src/original_icon.png" width="60" height="60" ></img> Truffle Auto Clicker
 
 ###  NOTICE
 
@@ -7,7 +7,8 @@
 With that said no bans, suspensions, or consequences, have been reported.
 #
 ### Description
-This is a Firefox extension to automatically click the Truffle claim points button.
+This is a Firefox extension to automatically click the Truffle claim points button.<br>
+<img src="cropped-example.gif"></img>
 
 <br><b>Note:</b><br>
 To quote the dev who made a similar extension for Chrome ([Link](https://chrome.google.com/webstore/detail/truffle-auto-bonus/dfcngoaoikgijdehhcjhnfgjbncfhalc)).
